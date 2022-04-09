@@ -1,2 +1,2 @@
 # First_repository
-Added for First repository
+Added for First repository to develope first project
